@@ -1,0 +1,5 @@
+.nix-mix
+.nix-hex
+result
+_build
+deps

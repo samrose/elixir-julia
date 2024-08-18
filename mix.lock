@@ -1,0 +1,3 @@
+%{
+  "rambo": {:hex, :rambo, "0.3.2", "97cd76474c309c7cd0e78e889fadf4724b09fa2148a85801bcc82c5e87b54fa0", [:mix], [], "hexpm", "3226df4e19a69b88ff8ba091dcd818a2a52db6fb3fa83c4b446f8e57d36b7093"},
+}
