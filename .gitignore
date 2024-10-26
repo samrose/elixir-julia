@@ -3,3 +3,5 @@
 result
 _build
 deps
+postgres*
+.nushell*
